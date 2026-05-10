@@ -37,8 +37,9 @@ export const ChartData = {
       colors: ["white"],
     },
     tooltip: {
+      theme: "dark",
       x: {
-        format: "dd/MM/yy HH:mm",
+        show: false,
       },
     },
     grid: {

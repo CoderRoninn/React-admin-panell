@@ -18,6 +18,9 @@ export const ReviewData = {
     chart: {
       type: "area",
       height: "auto",
+      toolbar: {
+        show: false,
+      },
     },
     fill: {
       colors: ["#fff"],
@@ -31,8 +34,9 @@ export const ReviewData = {
       colors: ["#ff929f"],
     },
     tooltip: {
+      theme: "dark",
       x: {
-        format: "dd/MM/yy HH:mm",
+        show: false,
       },
     },
     grid: {
@@ -51,9 +55,6 @@ export const ReviewData = {
       ],
     },
     yaxis: {
-      show: false,
-    },
-    toolbar: {
       show: false,
     },
   },
