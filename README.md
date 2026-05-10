@@ -1,3 +1,5 @@
+<img width="1920" height="902" alt="Kayt2026-05-10191848-ezgif com-optimize" src="https://github.com/user-attachments/assets/2ce3a353-363f-45eb-895c-5119565b732c" />
+
 
 # Modern Dark Admin Dashboard
 
