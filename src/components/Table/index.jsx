@@ -22,9 +22,7 @@ import AddForm from '../AddForm';
  *
  * Used in: MainDash component
  */
-function createData(name, trackingId, date, status) {
-    return { name, trackingId, date, status };
-}
+
 
 // Function to provide dynamic styles (colors) based on order status for Dark Mode
 const makeStyles = (status) => {
